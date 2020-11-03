@@ -1,7 +1,7 @@
 {
   "headers": {
     "/*": {
-    "X-Author": "ValeriiaSukhacheva"
+    "X-Author": "ValeriiaSukhacheva",
      "Access-Control-Allow-Origin": "*"
     }
   }
